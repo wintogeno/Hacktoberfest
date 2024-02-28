@@ -1,0 +1,3 @@
+Apiversion: v1
+Kind: Deployment
+Port:8080

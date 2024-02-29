@@ -1,1 +1,4 @@
 fifiohfohfoeho
+apiVersion: v1
+Kind:  Deployment
+Service: frappe-bench-erpnext
